@@ -1,0 +1,10 @@
+/**
+ * @fileoverview added by tsickle
+ * @suppress {checkTypes,extraRequire,uselessCode} checked by tsc
+ */
+export { NgxSelectModule } from './ngx-select/ngx-select.module';
+export { NGX_SELECT_OPTIONS, NgxSelectComponent } from './ngx-select/ngx-select.component';
+export { NgxSelectOption, NgxSelectOptGroup } from './ngx-select/ngx-select.classes';
+export { NgxSelectOptionDirective, NgxSelectOptionSelectedDirective, NgxSelectOptionNotFoundDirective } from './ngx-select/ngx-templates.directive';
+
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoicHVibGljX2FwaS5qcyIsInNvdXJjZVJvb3QiOiJuZzovL25neC1zZWxlY3QtZXgvIiwic291cmNlcyI6WyJwdWJsaWNfYXBpLnRzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiI7Ozs7QUFBQSxnQ0FBYyxnQ0FBZ0MsQ0FBQztBQUUvQyx1REFBYyxtQ0FBbUMsQ0FBQztBQUVsRCxtREFBYyxpQ0FBaUMsQ0FBQztBQUVoRCw2R0FBYyxzQ0FBc0MsQ0FBQyIsInNvdXJjZXNDb250ZW50IjpbImV4cG9ydCAqIGZyb20gJy4vbmd4LXNlbGVjdC9uZ3gtc2VsZWN0Lm1vZHVsZSc7XHJcblxyXG5leHBvcnQgKiBmcm9tICcuL25neC1zZWxlY3Qvbmd4LXNlbGVjdC5jb21wb25lbnQnO1xyXG5leHBvcnQgKiBmcm9tICcuL25neC1zZWxlY3Qvbmd4LXNlbGVjdC5pbnRlcmZhY2VzJztcclxuZXhwb3J0ICogZnJvbSAnLi9uZ3gtc2VsZWN0L25neC1zZWxlY3QuY2xhc3Nlcyc7XHJcblxyXG5leHBvcnQgKiBmcm9tICcuL25neC1zZWxlY3Qvbmd4LXRlbXBsYXRlcy5kaXJlY3RpdmUnO1xyXG4iXX0=
